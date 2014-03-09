@@ -12,12 +12,12 @@ Mono-Crypter *crea* o *edita* un archivo *.conf* que contiene:
 
 está cifrado bajo el algoritmo DES. 
 
-Para esto, lee el archivo cifrado y muestra los datos en la interfaz gráfica del programa (los mantiene en memoria). Los datos desencriptados nunca se almacenan en el disco rígido. ![Screenshot](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/1.png "Screenshot 1").
+Para esto, lee el archivo cifrado y muestra los datos en la interfaz gráfica del programa (los mantiene en memoria). Los datos desencriptados nunca se almacenan en el disco rígido. ![Screenshot](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/1.png "Screenshot 1") .
 
-Puedo crear un archivo nuevo o seleccionar uno existente para editarlo. Al apretar en el control para seleccionar archivo existente: ![Seleccionar archivo](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/2.png "Screenshot 2").
+Puedo crear un archivo nuevo o seleccionar uno existente para editarlo. Al apretar en el control para seleccionar archivo existente: ![Seleccionar archivo](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/2.png "Screenshot 2") .
 
-Finalmente: ![Archivo desencriptado](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/3.png "Screenshot 3").
+Finalmente: ![Archivo desencriptado](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/3.png "Screenshot 3") .
 
-Ejemplo en XP: ![Screenshot](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/4.png "Screenshot 4").
+Ejemplo en XP: ![Screenshot](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/4.png "Screenshot 4") .
 
 Fin.
