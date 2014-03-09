@@ -14,4 +14,4 @@ está cifrado bajo el algoritmo DES.
 
 Para poder acceder a ésta información se desarrolló un Crypter el cual lee el archivo cifrado y muestra los datos en la interfaz gráfica del programa (los mantiene en memoria), es decir, los datos desencriptados nunca se almacenan en el disco rígido.
 
-![Screenshot_1](https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/1.png "Screenshot 1")
+!(https://github.com/AlexisCaffa/mono-crypter/blob/master/Readme-files/1.png "Screenshot 1")
