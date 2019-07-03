@@ -1,7 +1,7 @@
 Mono-Crypter
 ============
 
-## Simple crypter writed in C# Mono
+## Simple crypter written in C# Mono
 
 ### Uso:
 
